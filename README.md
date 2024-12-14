@@ -1,4 +1,4 @@
-# image color detection
+# image color detection tool
 
 #Screenshot
 
